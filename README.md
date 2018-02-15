@@ -1,5 +1,7 @@
 # Podstawy C 
 
+Podstawy informatyki
+
 1. Zadanie 
 
 Napisz program obliczający pole trójkąta.
