@@ -1,4 +1,4 @@
-# Podstawy C
+# Podstawy C 
 
 1. Zadanie 
 
@@ -20,5 +20,6 @@ które chce wprowadzić,
 a następnie po kolei te liczby oblicz i wyświetl na ekranie średnią tych liczb.
 
 4. Zadanie
+
 Pobierz od użytkownika 20 liczb całkowitych i zapisz je do tablicy. 
 Wyświetl na ekranie co trzeci element zaczynając od końca tablicy
