@@ -1,5 +1,9 @@
 #include <stdio.h>
-#include <stdlib.h>
+
+// Napisz program obliczający pole trójkąta.
+// Długość boku oraz wysokość pobierz od użytkownika (długośći te powinny być liczbą zmiennoprzecinkową).
+// Wynik wyświetl z dokładnością do 3 liczb po przecinku.
+
 
 int main(int argc, char** argv){
     float wysokosc, dlugoscPodstawy, pole; // deklatujemy zmienne
